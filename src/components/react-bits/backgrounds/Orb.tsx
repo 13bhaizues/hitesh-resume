@@ -72,3 +72,5 @@ export const Orb: React.FC<OrbProps> = ({ className = '' }) => {
     </div>
   );
 };
+
+export default Orb
